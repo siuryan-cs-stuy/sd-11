@@ -1,0 +1,27 @@
+h2, h3 {
+    font-style: italic;
+}
+
+h1 {
+    color: rgb(0, 175, 255);
+    text-decoration: underline;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(15, 150, 255);
+}
+
+a:hover {
+    font-weight: bold;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+p {
+    text-align: center;
+    font-size: 250%;
+}

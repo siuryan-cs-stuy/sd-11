@@ -4,7 +4,6 @@ h2, h3 {
 
 h1 {
     color: rgb(0, 0, 150);
-    text-decoration: underline;
 }
 
 a {
@@ -24,4 +23,29 @@ body {
 p {
     text-align: center;
     font-size: 250%;
+}
+
+.extreme {
+    font-size: 250%;
+    text-align: right;
+}
+
+.navzone {
+    text-align: left;
+}
+
+.content {
+    font-size: 150%;
+}
+
+.prose {
+    font-size: 66%;
+}
+
+#head1 {
+    text-decoration: underline;
+}
+
+#tehlulz {
+    text-decoration: line-through;
 }

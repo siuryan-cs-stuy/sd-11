@@ -1,0 +1,22 @@
+html {
+    background: linear-gradient(#AFECE7, #B4F7C1, #AFECE7);
+    color: #706C61;
+}
+
+.rotate {
+    transform: rotate(-7deg);
+    padding-bottom: 90px;
+    margin-top: -50px;
+}
+
+li {
+    color: #899E8B;
+}
+
+h2 {
+    font-weight: normal;
+}
+
+strong, em {
+    font-size: 250%;
+}
